@@ -8,7 +8,7 @@ public class SpringJdbcH2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJdbcH2Application.class, args);
-	        System.out.println(" from start  ");
+	        System.out.println(" from start....  ");
 	}
 
 }
